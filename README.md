@@ -1,0 +1,2 @@
+# Water-Quality-Prediction-in-Aquaculture-Using-Machine-Learning-And-Internet-Of-Things-using-python
+This project describes how, with the help of Iot sensors, a prototype was made and with the help of some lab experiments and theorems, an empirical formula equation was assigned, and on those bases water quality prediction was done. the data set is collected manually. The algorithm which was used is Linear Regression.
